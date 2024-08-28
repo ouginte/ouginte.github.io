@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ouginte.github.io/sitemap.html.gz
+Sitemap: https://ouginte.github.io/app/sitemap.html.gz
+Sitemap: https://ouginte.github.io/assets/sitemap.html.gz
+Sitemap: https://ouginte.github.io/css/sitemap.html.gz
+Sitemap: https://ouginte.github.io/includes/sitemap.html.gz
+Sitemap: https://ouginte.github.io/item/sitemap.html.gz
+Sitemap: https://ouginte.github.io/src/sitemap.html.gz
